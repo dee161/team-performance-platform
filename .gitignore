@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# Legacy and Temp
+_legacy_web_app/
+telco_customer_churn.csv
+.DS_Store
+Thumbs.db
